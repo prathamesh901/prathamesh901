@@ -40,4 +40,4 @@
 <a target="_blank" href="https://www.dribbble.com/https://dribbble.com/prathamesh901" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a>
 <a target="_blank" href="https://www.behance.net/https://www.behance.net/prathamshinde901" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/prathamesh901" alt="https://github.com/prathamesh901" /></a></p>
+
